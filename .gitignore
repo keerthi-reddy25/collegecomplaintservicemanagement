@@ -1,0 +1,15 @@
+# Compiled output
+bin/
+target/
+*.class
+
+# Eclipse settings
+.settings/
+
+# MySQL Connector/J (download it yourself, see README.md)
+lib/*.jar
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
